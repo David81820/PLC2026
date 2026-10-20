@@ -20,4 +20,4 @@ Para tal propósito definiu-se a especificação `^(?!.*011)[01]*$`, eis o porqu
 
 ## Lista de resultados
 * [script python de teste](test.py)
-* [prova de resultados](tpc1.png)
+* [prova de resultados (terminal)](tpc1.png) -- [prova de resultados (site)](tpc1-2.png)
