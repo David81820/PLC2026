@@ -3,7 +3,7 @@
 ## Autor
 - **Nome:** David João Oliveira Gonçalves
 - **ID:** a81820
-- [**Foto:**](foto_UM.jpeg)
+- [**Foto**](foto_UM.jpeg)
 
 <br>
 
