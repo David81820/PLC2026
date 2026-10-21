@@ -7,6 +7,6 @@ Autor:  David Gonçalves
 
 <br>
 
-* [TP1](/TP1/README.md)
-* [TP2](/TP2/README.md)
-* [TP3](/TP3/README.md)
+* [TPC1](/TPC1/README.md)
+* [TPC2](/TPC2/README.md)
+* [TPC3](/TPC3/README.md)
