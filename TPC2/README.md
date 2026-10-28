@@ -10,7 +10,7 @@
 ## Resumo
 Neste trabalho foi pedido que se desenvolvesse um programa em Python que substituía os elementos básicos da sintaxe de MarkDown para os elementos equivalentes de sintaxe HTML.
 
-Esses elementos são descritos em [*Basic Syntax* da **Markdown Cheat Sheet**](https://www.markdownguide.org/cheat-sheet/#basic-syntax) incluí:
+Esses elementos são descritos na secção [*Basic Syntax* da **Markdown Cheat Sheet**](https://www.markdownguide.org/cheat-sheet/#basic-syntax) e incluíem:
 
 | Elemento | MarkDown | HTML |
 |---|---|---|
