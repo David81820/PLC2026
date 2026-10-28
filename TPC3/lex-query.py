@@ -7,10 +7,10 @@ Token = namedtuple("Token", ["type", "value"])
 
 token_regex = [
     ('COMMENT',     r'#.*'),                    # comentários
-    ('SELECT',      r'(?i)\bSELECT\b'),         # palavra-chave SELECT
-    ('WHERE',       r'(?i)\bWHERE\b'),          # palavra-chave WHERE
-    ('LIMIT',       r'(?i)\bLIMIT\b'),          # palavra-chave LIMIT
-    ('A',           r'\bab\b'),                 # 'a' (atalho para rdf:type)
+    ('SELECT',      r'(?i:\bSELECT\b)'),         # palavra-chave SELECT
+    ('WHERE',       r'(?i:\bWHERE\b)'),          # palavra-chave WHERE
+    ('LIMIT',       r'(?i:\bLIMIT\b)'),          # palavra-chave LIMIT
+    ('A',           r'\ba\b'),                 # 'a' (atalho para rdf:type)
     ('VAR',         r'\?[a-zA-Z_][\w]*'),       # variáveis (ex.: ?nome)
     ('PREFIX',      r'[a-zA-Z_][\w-]*:[\w-]+'), # prefixos (ex.: dbo:MusicalArtist)
     ('STRING',      r'"[^"]*"'),                # literais entre aspas (ex.: "Chuck Berry)
