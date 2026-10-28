@@ -8,7 +8,7 @@
 <br>
 
 ## Resumo
-Escrever em Python um analisador léxico para uma linguagem de consulta tipo SPARQL.
+Neste trabalho foi pedido que se escrevesse em Python um analisador léxico para uma linguagem de consulta tipo SPARQL.
 
 O programa deverá receber strings como o seguinte exemplo:
 ```py
